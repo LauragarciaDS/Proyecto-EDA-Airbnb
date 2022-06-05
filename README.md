@@ -18,3 +18,6 @@ Así como muchísimas más preguntas para analizar las diferentes ciudades, como
 
 Aunque me ha faltado tener información más completa para responder a preguntas mucho más interesantes, y extraer información todavía más relevante.
 
+
+
+El proyecto ha sido realizado para el bootcamp de **Data Science** en The Bridge.
