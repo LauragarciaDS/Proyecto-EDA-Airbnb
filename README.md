@@ -9,8 +9,12 @@ Estas cuatro ciudades son:
 
 
 Inicialmente de estas cuatro ciudades elegidas, New York, es la que ocupa el primer puesto como ciudad más cara,
-con mi análisis me he propuesto saber inicialmente: ¿en Airbnb es también es la ciudad más cara?
-Así como muchísimas más preguntas para ver las diferencias entre las ciudades, datos curiosos, como conclusiones más determinantes.
+con mi análisis me he propuesto saber inicialmente: **¿En Airbnb es también es la ciudad más cara?**
 
 
+Así como muchísimas más preguntas para analizar las diferentes ciudades, como conclusiones más determinantes.
+
+> ¡Ha sido un proyecto muy chulo! 
+
+Aunque me ha faltado tener información más completa para responder a preguntas mucho más interesantes, y extraer información todavía más relevante.
 
