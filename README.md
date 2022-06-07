@@ -14,9 +14,8 @@ con mi análisis me he propuesto saber inicialmente: **¿En Airbnb es también l
 
 Así como muchísimas más preguntas para analizar las diferentes ciudades, como conclusiones más determinantes.
 
-> ¡Ha sido un proyecto muy chulo! 
 
-Aunque me ha faltado tener información más completa para responder a preguntas mucho más interesantes, y extraer información todavía más relevante.
+Me hubiera gustado tener más datos para profundizar más, para responder a preguntas mucho más interesantes, y extraer información todavía más relevante.
 
 
 
